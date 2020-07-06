@@ -1,0 +1,208 @@
+extends ../layout/main
+
+block content
+    .wrapper
+        include ../modules/header/header
+        .content
+            block content
+    main.main
+        section.hero
+            .container
+                .hero__wrap
+                    .hero__banner
+                        .wow.fadeInLeft.hero__banner-img
+                            img.banner-img(src="./static/img/face.png")
+                        .wow.fadeInRight.hero__content
+                            h1.hero__content-heading
+                                span.hero__content-name Кошман Андрей
+                                span.hero__content-prof Front-End developer
+                            h3.hero__content-info Телефон:
+                                span
+                                    a.hero__content-number(href="tel:+380732195862") +380732195862
+                            h3.hero__content-info Email:
+                                span
+                                    a.hero__content-mail(href="mailto:teplandrey41@gmail.com") teplandrey41@gmail.com
+                            h3.hero__content-info Дата рождения:
+                                span.hero__content-birth 13.01.1995, 25 лет
+            .btn__primary
+                button.btn.btn__primary-one(type='submit') Связаться со мной
+            .hero__particles#hero__particles--js
+
+
+        section(id="info").info
+            .container
+                .info__wrap
+                    .info__title
+                        h2
+                            span.info__title-heading о себе
+                    .info__content
+                        .info__content-list
+                            h2.info__content-title
+                                span.info__content Занимаюсь web разработкой с большим увлечением. Готов к обучению и повышению квалификации, жажду профессионального роста и новых проектов. К работе всегда отношусь трепетно и ответственно. Ежедневно приобретаю новые знания и навыки в данной сфере. Всегда рад адекватным и интересным предложениям от работодателей!
+                img.banner-gif(src="./static/img/development.gif")
+        canvas#canvas-granim
+
+
+
+
+
+
+        section(id="education").education
+            .container
+                .education__wrap
+                    .education__title
+                        h2
+                            span.education__title-heading образование
+                    .education__content
+                        .education__content-list
+                            h3.education__content-item
+                                span.education__data 01.09.2010 - 01.06.2014
+                                span.education__content-qualification младший специалист
+                            h3.education__content-item
+                                span.education__data 01.09.2014 - 01.06.2017
+                                span.education__content-qualification (бакалавр) специалист
+                        .education__content-study
+                            h3.education__content-item
+                                span
+                                    a(href="https://www.education.ua/colleges/1098/" target="_blank").education__content-institution техникум
+                                span.education__content-qualification техникум промышленной автоматики одесской национальной академии пищевых технологий ТПА ОНАПТ
+                            h3.education__content-item
+                                span
+                                    a(href="https://www.onaft.edu.ua/ru/" target="_blank").education__content-institution академия
+                                span.education__content-qualification одесская национальная академия пищевых технологий им. В.С.Мартыновского, кафедра информационных технологий и кибербезопасности ОНАПТ, системный администратор
+
+
+        section#experience.experience
+            .container
+                .experience__wrap
+                    .experience__title
+                        h2
+                            span.experience__title-heading опыт работы
+                    .experience__content
+                        .experience__content-list
+                            h3.experience__content-item
+                                span.experience__data 04.09.2018 - 01.01.2019
+                                span.experience__content-qualification системный администратор
+                                img.banner-gif(src="./static/img/computer.gif")
+                        .experience__content-work
+                            h3.experience__content-item
+                                span
+                                    a(href="https://ode.dcz.gov.ua" target="_blank").experience__content-link Одесский городской центр занятости
+                                span.experience__content-info (Содействие гражданам в поиске подходящей работы)
+                                ul.experience__content-qualification
+                                    li.experience__content-scroll 1) Установка на серверы и рабочие станции операционные системы и необходимые для работ программные обеспечения.
+                                    li.experience__content-scroll 2) Выявление ошибок пользователей и программного обеспечения и принятие мер по их исправлению.
+                                    li.experience__content-scroll 3) Осуществление антивирусной защиты локальной вычислительной сети, сервера.
+                                    li.experience__content-scroll 4) Принятие мер по восстановлению работоспособности локальной сети при сбоях или выходе из строя сетевого оборудования.
+
+
+
+        section(id="skills-id").skills
+            .container
+                .skills__wrap
+                    .skills__title
+                        h2
+                            span.skills__title-heading навыки
+                    .skills__content
+                        .skills__content-list
+                            ul
+                                li.skills__content-items.skills__content-html HTML5
+                                li.skills__content-items.skills__content-css CSS3
+                                li.skills__content-items.skills__content-js JavaScript/jQuery
+                                li.skills__content-items.skills__content-php PHP
+                                li.skills__content-items.skills__content-wordpress WordPress
+                                li.skills__content-items.skills__content-sass Препроцессор Sass/Scss/Less
+                                li.skills__content-items.skills__content-pug Шаблонизатор Pug
+                                li.skills__content-items.skills__content-bootstrap Bootstrap 4
+                                li.skills__content-items.skills__content-gulp Gulp
+                                li.skills__content-items.skills__content-bem Bem naming - именование классов по Бэму
+                                li.skills__content-items.skills__content-adaptive Кроссбраузерная, адаптивная, семантическая, валидная верстка
+                                li.skills__content-items.skills__content-github Github
+                                li.skills__content-items.skills__content-photoshop Photoshop (на уровне нарезки макетов)
+                                li.skills__content-items.skills__content-avocode Avocode
+                .skills__particles#skills__particles--js
+
+
+
+        section(id="portfolio").portfolio
+            .portfolio__title
+                h2
+                    span.portfolio__title-heading мои работы
+            .container
+                .card__trigger
+                    button.card__trigger-btn start
+                .portfolio__wrap
+                    .portfolio__content
+                        .portfolio__content-list
+                            a(href="https://chupachar.github.io/works/bazabet/" target="_blank").card-link
+                                .card
+                                    img.card-img.bazabet(src="./static/img/portfolio/bazabet.png")
+                            a(href="https://chupachar.github.io/works/parimatch/" target="_blank").card-link
+                                .card
+                                    img.card-img.parimatch(src="./static/img/portfolio/parimatch.png")
+                            a(href="https://chupachar.github.io/works/furniture/" target="_blank").card-link
+                                .card
+                                    img.card-img.furniture(src="./static/img/portfolio/furniture.png")
+                            a(href="https://chupachar.github.io/works/autovikup/" target="_blank").card-link
+                                .card
+                                    img.card-img.autovikup(src="./static/img/portfolio/autovikup.png")
+                            a(href="https://chupachar.github.io/works/bootstrap/" target="_blank").card-link
+                                .card
+                                    img.card-img.boot(src="./static/img/portfolio/boot.png")
+                            a(href="https://chupachar.github.io/works/yoga/" target="_blank").card-link
+                                .card
+                                    img.card-img.yoga(src="./static/img/portfolio/yoga.png")
+                            a(href="https://chupachar.github.io/works/iphone/" target="_blank").card-link
+                                .card
+                                    img.card-img.iphone(src="./static/img/portfolio/iphone.png")
+                .portfolio__particles#portfolio__particles--js
+
+
+
+
+
+
+
+
+
+        section(id="social").social
+            .container
+                .social__wrap
+                    .social__title
+                        h2
+                            span.social__title-heading контакты
+                    .social__block
+                        ul.social__block-list
+                            li.social__block-item.vk
+                                a(href="https://vk.com/id31323776" target="_blank").social__block-link.social__block-vk
+                            li.social__block-item.telegram
+                                a(href="https://web.telegram.org/@Chupachar#/im" target="_blank").social__block-link.social__block-telegram
+                            li.social__block-item.instagram
+                                a(href="https://www.instagram.com/dvidivki5/?hl=ru" target="_blank").social__block-link.social__block-instagram
+                            li.social__block-item.git
+                                a(href="https://github.com/Chupachar/" target="_blank").social__block-link.social__block-git
+                            li.social__block-item.gmail
+                                a(href="mailto: teplandrey41@gmail.com" target="_blank").social__block-link.social__block-gmail
+
+        include ../modules/footer/footer
+
+
+
+
+
+
+
+
+    script(src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous")
+    script(src='static/js/libs/particles/particles.js')
+    script(src='static/js/libs/granim/granim.js')
+    script(src='static/js/libs/sweetalert2/sweetalert2.min.js')
+    script(src='static/js/libs.min.js')
+    script(src='static/js/main.js')
+    script(src='static/js/wow.min.js')
+    block script
+        .scrollup
+            .arrow-up.activeup
+

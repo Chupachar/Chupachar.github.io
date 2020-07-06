@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85704912-b1cd-4a81-b7ed-bdf3d093bc36" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1116">
+              <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+              <folding>
+                <marker date="1582386865535" expanded="true" signature="2097:2398" ph="..." />
+                <marker date="1582386865535" expanded="true" signature="2324:2398" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../landing bazabet/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4319">
+              <caret line="772" column="49" selection-start-line="772" selection-start-column="49" selection-end-line="772" selection-end-column="49" />
+              <folding>
+                <element signature="e#3426#4584#0" />
+                <element signature="e#4594#5779#0" />
+                <element signature="e#5789#6966#0" />
+                <element signature="e#8127#9391#0" />
+                <element signature="e#9403#10694#0" />
+                <element signature="e#10706#11989#0" />
+                <element signature="e#12796#14060#0" />
+                <element signature="e#14072#15363#0" />
+                <element signature="e#15375#16658#0" />
+                <element signature="e#17482#18746#0" />
+                <element signature="e#18758#20049#0" />
+                <element signature="e#20061#21344#0" />
+                <element signature="e#22163#23427#0" />
+                <element signature="e#23439#24730#0" />
+                <element signature="e#24742#26025#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1010">
+              <caret line="188" column="18" lean-forward="true" selection-start-line="188" selection-start-column="18" selection-end-line="188" selection-end-column="18" />
+              <folding>
+                <element signature="e#4924#6082#0" />
+                <element signature="e#6092#7277#0" />
+                <element signature="e#7287#8464#0" />
+                <element signature="e#9195#10353#0" />
+                <element signature="e#10363#11548#0" />
+                <element signature="e#11558#12735#0" />
+                <element signature="e#13444#14602#0" />
+                <element signature="e#14612#15797#0" />
+                <element signature="e#15807#16984#0" />
+                <marker date="1582387469112" expanded="true" signature="1583:1605" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/vars.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/mixins.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header__inner</find>
+      <find>logo-txt</find>
+      <find>bonus</find>
+      <find>btn__inner-input</find>
+      <find>logo</find>
+      <find>footer</find>
+      <find>titler</find>
+      <find>registration</find>
+      <find>steps</find>
+      <find>.steps__list</find>
+      <find>url</find>
+      <find>.steps__counter</find>
+      <find>body</find>
+      <find>steps__text</find>
+      <find>GothamPro</find>
+      <find>steps__counter</find>
+      <find>.features__item</find>
+      <find>footer__copyright</find>
+      <find>title-bill</find>
+      <find>parallax</find>
+      <find>header</find>
+      <find>title</find>
+      <find>main</find>
+      <find>payments__wrapper</find>
+      <find>hero__</find>
+      <find>.footer</find>
+      <find>download</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>steps</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/scss/fonts.scss" />
+        <option value="$PROJECT_DIR$/scss/mixins.scss" />
+        <option value="$PROJECT_DIR$/../tabs/css/style.css" />
+        <option value="$PROJECT_DIR$/scss/vars.scss" />
+        <option value="$PROJECT_DIR$/../tabs/index.html" />
+        <option value="$PROJECT_DIR$/../makets/furniture/style/style.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/main.scss" />
+        <option value="$PROJECT_DIR$/../landing bazabet/scss/main.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="98" />
+    <option name="y" value="119" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="parimatch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parimatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85704912-b1cd-4a81-b7ed-bdf3d093bc36" name="Default Changelist" comment="" />
+      <created>1580384476467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580384476467</updated>
+      <workItem from="1580384477531" duration="5760000" />
+      <workItem from="1580390573607" duration="21493000" />
+      <workItem from="1580454464520" duration="4642000" />
+      <workItem from="1580477822633" duration="17273000" />
+      <workItem from="1580547379635" duration="14717000" />
+      <workItem from="1580716654797" duration="23871000" />
+      <workItem from="1580803503365" duration="27425000" />
+      <workItem from="1580893179752" duration="23624000" />
+      <workItem from="1580971185287" duration="5668000" />
+      <workItem from="1581183584973" duration="34000" />
+      <workItem from="1581198565547" duration="45000" />
+      <workItem from="1581243162157" duration="70000" />
+      <workItem from="1581243233324" duration="343000" />
+      <workItem from="1581244151404" duration="21737000" />
+      <workItem from="1581356462063" duration="16000" />
+      <workItem from="1581359899161" duration="25000" />
+      <workItem from="1581361934340" duration="129000" />
+      <workItem from="1581504056355" duration="599000" />
+      <workItem from="1581951996386" duration="6427000" />
+      <workItem from="1582024012432" duration="8338000" />
+      <workItem from="1582300188526" duration="14020000" />
+      <workItem from="1582358016007" duration="11919000" />
+      <workItem from="1582385977001" duration="3855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="212030000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15991472" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15831557" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../makets/yoga/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/yoga/scss/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/yoga/scss/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/autovikup/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/autovikup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4773">
+          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/yoga/scss/vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6897" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6720.38796/_normalize.scss" />
+    <entry file="file://$PROJECT_DIR$/scss/_normalize.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/furniture/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="142" column="24" lean-forward="true" selection-start-line="142" selection-start-column="24" selection-end-line="142" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/../landing bazabet/scss/mixins.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../landing bazabet/scss/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/jewelery/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="57" selection-start-line="57" selection-end-line="58" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/jewelery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-666">
+          <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../landing bazabet/scss/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../landing bazabet/scss/vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="14" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../landing bazabet/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="18" column="4" selection-start-line="18" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../landing bazabet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="161" column="40" lean-forward="true" selection-start-line="161" selection-start-column="40" selection-end-line="161" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8460.36354/style.css" />
+    <entry file="file://$PROJECT_DIR$/../tabs/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2729">
+          <caret line="169" column="1" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-471" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css" />
+    <entry file="file://$PROJECT_DIR$/../tabs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/furniture/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9384">
+          <caret line="595" column="26" lean-forward="true" selection-start-line="595" selection-start-column="26" selection-end-line="595" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makets/teatralka/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../landing bazabet/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4319">
+          <caret line="772" column="49" selection-start-line="772" selection-start-column="49" selection-end-line="772" selection-end-column="49" />
+          <folding>
+            <element signature="e#3426#4584#0" />
+            <element signature="e#4594#5779#0" />
+            <element signature="e#5789#6966#0" />
+            <element signature="e#8127#9391#0" />
+            <element signature="e#9403#10694#0" />
+            <element signature="e#10706#11989#0" />
+            <element signature="e#12796#14060#0" />
+            <element signature="e#14072#15363#0" />
+            <element signature="e#15375#16658#0" />
+            <element signature="e#17482#18746#0" />
+            <element signature="e#18758#20049#0" />
+            <element signature="e#20061#21344#0" />
+            <element signature="e#22163#23427#0" />
+            <element signature="e#23439#24730#0" />
+            <element signature="e#24742#26025#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+          <folding>
+            <marker date="1582386865535" expanded="true" signature="2097:2398" ph="..." />
+            <marker date="1582386865535" expanded="true" signature="2324:2398" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1010">
+          <caret line="188" column="18" lean-forward="true" selection-start-line="188" selection-start-column="18" selection-end-line="188" selection-end-column="18" />
+          <folding>
+            <element signature="e#4924#6082#0" />
+            <element signature="e#6092#7277#0" />
+            <element signature="e#7287#8464#0" />
+            <element signature="e#9195#10353#0" />
+            <element signature="e#10363#11548#0" />
+            <element signature="e#11558#12735#0" />
+            <element signature="e#13444#14602#0" />
+            <element signature="e#14612#15797#0" />
+            <element signature="e#15807#16984#0" />
+            <marker date="1582387469112" expanded="true" signature="1583:1605" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

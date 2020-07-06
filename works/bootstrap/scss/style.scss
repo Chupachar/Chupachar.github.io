@@ -1,0 +1,22 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  background: #f8f8f8;
+}
+
+.banner {
+  height: 400px;
+  background: url("../images/bg.jpg") no-repeat center / cover;
+  color: white;
+}
+
+.content {
+  margin-top: 50px;
+}
+
+.footer {
+  background: #404040;
+  color: white;
+}

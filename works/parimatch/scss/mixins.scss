@@ -1,0 +1,28 @@
+@mixin flex-between(){
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@mixin flex-around(){
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@mixin flex-end(){
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+@mixin flex-center() {
+  display: flex;
+  justify-content: center;
+}
+
+@mixin flex-evenly() {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
